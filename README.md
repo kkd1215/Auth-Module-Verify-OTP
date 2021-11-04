@@ -26,7 +26,24 @@
 - cors
 - helmet
 - methodOverride
+- compression
 
 ## Validation
 
 - Express Validation
+- Express validator
+
+## OTP generation
+- randomstring
+
+## Authorization
+- JWT
+
+## Time management
+- moment
+
+## Email Service
+- Sendgrid
+
+## Utilities 
+- lodash
